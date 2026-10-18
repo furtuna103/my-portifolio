@@ -1,37 +1,53 @@
 export default function Experience() {
   const experiences = [
     {
-      id: 1,
-      company: "Top Tech",
-      position: "QA Tester",
-      period: "Present",
-      description:
-        "Conducted functional and usability testing for web and mobile applications. Identified, documented, and tracked software bugs to improve product reliability and performance. Collaborated closely with developers to validate fixes and ensure product quality across multiple test environments.",
-    },
-    {
-      id: 2,
-      company: "INSA Summer Camp – Afalgugn Project",
-      position: "Project Designer & Frontend Developer",
-      period: "Jul 2025 - Aug 2025",
-      description:
-        "Designed and developed interactive educational content for the Afalgugn Project. Focused on accessibility, usability, and engaging UI/UX design to facilitate interactive learning.",
-    },
-    {
-      id: 3,
-      company: "E-Tech S.C.",
-      position: "Web Developer Intern",
-      period: "Jul 2024 - Sep 2024",
-      description:
-        "Collaborated within a development team to build a responsive frontend for an Internship Management System using React.js.",
-    },
-    {
-      id: 4,
-      company: "Kuraz Technologies",
-      position: "UI/UX Designer & Web Developer Intern",
-      period: "Jul 2023 - Sep 2023",
-      description:
-        "Contributed to the design and development of web platforms, including a university website and an educational agency platform. Developed a testimonial module for an e-commerce platform to enhance engagement.",
-    },
+    id: 1,
+    company: "AI Data Evaluator | Revelo",
+    position: "AI Data Evaluator",
+    period: "Jan 2026 – Apr 2026",
+    description:
+      "Evaluated AI model outputs against complex technical prompts, analyzing logic flaws, edge cases, and code performance. Applied critical thinking and prompt engineering techniques to improve model accuracy, reliability, and code quality.",
+  },
+  {
+    id: 2,
+    company: "Top Tech",
+    position: "MERN Stack Developer & Frontend Engineer",
+    period: "Jun 2025 – Present",
+    description:
+      "Architected and developed end-to-end full-stack web applications utilizing MongoDB, Express.js, React.js, and Node.js. Designed and implemented secure RESTful APIs, server-side data models, and database schemas with JWT user authentication. Built dynamic, responsive interfaces using React and Tailwind CSS, ensuring optimal client-server performance and state flow.",
+  },
+  {
+    id: 3,
+    company: "Quantum kit Technologies",
+    position: "Frontend Developer & QA Tester",
+    period: "Jan 2025 – Nov 2025",
+    description:
+      "Built responsive web applications while maintaining high code quality through continuous testing and UI validation. Integrated complex RESTful backend services and optimized client-side performance for smooth user navigation. Collaborated with design and engineering teams to identify defects, validate fixes, and refine user experience.",
+  },
+  {
+    id: 4,
+    company: "INSA Summer Camp",
+    position: "Project Designer & Frontend Developer",
+    period: "Jul 2025 – Aug 2025",
+    description:
+      "Designed and developed a Lost and Found Person website for the Afalgugn Project, prioritizing accessibility, usability, and engaging UI/UX design.",
+  },
+  {
+    id: 5,
+    company: "E-Tech S.C.",
+    position: "Web Developer Intern",
+    period: "Jul 2024 – Sep 2024",
+    description:
+      "Collaborated in building the responsive frontend for an Internship Management System using React.js and dynamic form workflows.",
+  },
+  {
+    id: 6,
+    company: "Kuraz Technologies",
+    position: "UI/UX Designer & Web Developer Intern",
+    period: "Jul 2023 – Sep 2023",
+    description:
+      "Contributed to web development projects including a university website and a dynamic e-commerce testimonial module.",
+  }
   ]
 
   return (

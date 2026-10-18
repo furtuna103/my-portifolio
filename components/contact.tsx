@@ -84,7 +84,7 @@ export default function Contact() {
               <h3 className="text-lg font-semibold text-slate-900 mb-4">Contact Info</h3>
               <div className="space-y-4">
                 <a
-                  href="mailto:fortunatiehun@gmail.com"
+                  href="mailto:furtunatilahun@gmail.com"
                   className="flex items-center gap-4 text-slate-600 hover:text-blue-600 transition"
                 >
                   <Mail size={20} />
@@ -95,7 +95,7 @@ export default function Contact() {
                   className="flex items-center gap-4 text-slate-600 hover:text-blue-600 transition"
                 >
                   <Phone size={20} />
-                  <span>+251 970 711 987</span>
+                  <span>+251 970 711 967</span>
                 </a>
                 <div className="flex items-center gap-4 text-slate-600">
                   <MapPin size={20} />

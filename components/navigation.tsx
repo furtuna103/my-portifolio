@@ -25,7 +25,7 @@ export default function Navigation() {
           <a href="#contact" className="text-sm font-medium text-slate-600 hover:text-slate-900 transition">
             Contact
           </a>
-          <a href="/Furtuna New.pdf" download><Button className="bg-blue-600 hover:bg-blue-700 text-white">Download CV</Button></a>
+          <a href="/Furtuna Yimer Resume.pdf" download><Button className="bg-blue-600 hover:bg-blue-700 text-white">Download CV</Button></a>
          
         </div>
       </div>

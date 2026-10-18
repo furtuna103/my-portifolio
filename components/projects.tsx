@@ -8,7 +8,7 @@ const projects = [
     title: "alif noor Project",
     description:
       "A comprhensive chharity platform that connects donors with verified charitable organizations, enabling transparent and impactful giving experiences.",
-    tags: ["React", "Tailwind CSS", "Figma"],
+    tags: ["React", "Tailwind CSS", "Node.js"],
     image: "/Alifnor.jpg",
   },
   {
@@ -16,7 +16,7 @@ const projects = [
     title: "Hahu Down Syndrome Project",
     description:
       "Inclusive educational platform offering accessible resources and support for individuals with Down syndrome, featuring intuitive, responsive, and user-friendly design.",
-    tags: ["Next.js", "Tailwind CSS"],
+    tags: ["Next.js", "Tailwind CSS","Express.js"],
     image: "/hahu.png",
     videoPath: "/hahu.mp4",
   },
